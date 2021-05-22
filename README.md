@@ -52,11 +52,16 @@ If the user enters different passwords in the fields ‘New Password’ and ‘R
 
 # Languages
  • HTML
+ 
  •CSS
+ 
  •php
+ 
 # Database
  •Mysql
+ 
  •XAMPP
+ 
  •phpmyadmin
  
  LinkedIN link for project : https://www.linkedin.com/posts/muskaan-gupta-0599b71a9_html5-css3-bootstrap-activity-6797557326158061568-CbVQ
